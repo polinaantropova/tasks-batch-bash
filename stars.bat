@@ -3,7 +3,7 @@
 setlocal enabledelayedexpansion
 
 echo.
-echo ===============
+echo _______________
 echo.
 
 set string=
@@ -15,7 +15,7 @@ for /L %%i in (1,1,%1) do (
 )
 
 echo.
-echo ===============
+echo _______________
 echo.
 
 set string=
@@ -27,7 +27,7 @@ for /L %%i in (1,1,%1) do (
 )
 
 echo.
-echo ===============
+echo _______________
 echo.
 
 set string=
@@ -41,7 +41,7 @@ for /L %%i in (1,1,%1) do (
 )
 
 echo.
-echo ===============
+echo _______________
 echo.
 
 set string=
@@ -66,5 +66,5 @@ for /L %%i in (!t!,-1,1) do (
 )
 
 echo.
-echo ===============
+echo _______________
 echo.
